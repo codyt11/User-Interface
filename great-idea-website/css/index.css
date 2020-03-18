@@ -64,3 +64,32 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+nav{
+	display:inline-block;
+	Margin: 20px;
+	width:100%;
+}
+nav a{
+	display: inline-block;
+	vertical-align: super;
+	margin-left:none;
+	padding:none;
+	width:12%;
+}
+.logo{
+	width:16%;
+	vertical-align: sub;
+	height:50px;
+}
+
+.title{
+	margin:0 auto;
+	font-size: 100px;
+	width:50%;
+background: red;
+display: inline-block;
+text-align: center;
+}
+img{
+	width:30%
+}
